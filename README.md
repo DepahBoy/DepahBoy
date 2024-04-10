@@ -1,9 +1,8 @@
-
-
-<img align="left" height="150" src="https://media.licdn.com/dms/image/D4E03AQGD1pRiDaA9VQ/profile-displayphoto-shrink_400_400/0/1712635657527?e=1718236800&v=beta&t=czxzocTubuuIDe06kHVt2wqDVKOck0fXXukFG6mXG_s"  />
-
 ###
+
 <h1 align="center">Hi 👋, I'm JEREMY SIMEGNI</h1>
+<img align="left" height="150" src="https://media.licdn.com/dms/image/D4E03AQGD1pRiDaA9VQ/profile-displayphoto-shrink_400_400/0/1712635657527?e=1718236800&v=beta&t=czxzocTubuuIDe06kHVt2wqDVKOck0fXXukFG6mXG_s"  /></br>
+
 <h3 align="center">I'm a passionate FinTech Software Developer & Designer 💻 with a great 💜 for financial analysis. 📍 From Paris, France.</h3>
 
 - 🔭 I’m currently working on **on the Design and Development of FinTech Solutions. I create digital financial products that meet the evolving needs of the financial and banking sector. Through my projects, I strive to combine creativity and functionality to deliver impactful solutions.**

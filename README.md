@@ -2,16 +2,16 @@
 
 <h3 align="center">I'm a passionate Software Developer💻 From Paris, France.</h3>
 
-- 🔭 I’m currently working on **on the Design and Development of Digital Products with Python(Django) & ReactJS**
+- 🔭 I’m currently working on **the Design and Development of Digital Products with Python(Django) & ReactJS**
 
   
 
-- 🌱 I’m currently learning **Full Stack development with Java(SpringBoot) on the backend and Angular on the frontend.**
+- 🌱 I’m currently learning **Software Engineering at Technical University of Munich**
 
 - 💬 Ask me about
   **Software Engineering ✅
-  FUll Stack Developement with Python(Django) and React✅
-  Design of Financial Products ✅**
+  FUll Stack Developement with Python(Django)/React✅
+  UI/UX Design & Web Design ✅**
 
 - 📫 How to reach me **LinkedIn**
 
